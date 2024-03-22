@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(220, 183, 255);
+}
+table, th, td{
+    border: 2px solid grey;
+
+
+
+}
+th{
+    background-color: rgb(191, 123, 255);
+}
+td{
+    margin:auto;
+    padding: 5px;
+}
+table{
+    text-align: center;
+    margin: 0 auto;
+    width: 30%;
+    font-size: 24px;
+    /* border-collapse:collapse; */
+}
+
+img{
+    width:100px;
+}
